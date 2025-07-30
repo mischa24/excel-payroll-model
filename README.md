@@ -1,3 +1,9 @@
+![License](https://img.shields.io/badge/license-MIT-green)
+![Made with Excel](https://img.shields.io/badge/Made_with-Excel-blue)
+![Category](https://img.shields.io/badge/Category-Payroll_Modeling-yellow)
+![Scope](https://img.shields.io/badge/Scope-Academic-lightgrey)
+![Features](https://img.shields.io/badge/Includes-Formulas_&_Scenarios-brightgreen)
+
 # Excel Bonus Allocation – Employee Incentive Simulation
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
